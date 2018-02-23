@@ -1,7 +1,6 @@
 # la_homeless_project
 City of Los Angeles-Homeless Project
-
-Team #1: 
+ 
 Zhuolin Ouyang, Xiaoxuan Feng, Nikhil Gupta, Jaspreet Singh, Rui Xin Wu, Zijian Wang
 
 Project Overview
